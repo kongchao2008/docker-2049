@@ -1,6 +1,5 @@
 # dao-docker-2048
-testetst
-test
+
 simple is better
 
 a smaller docker version of 2048
