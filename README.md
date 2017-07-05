@@ -47,4 +47,4 @@ teset
 testtesttest
 
 
-lixw-test
+lixw-test lixw
