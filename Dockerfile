@@ -1,5 +1,5 @@
-#FROM registry.dataos.io/library/alpine:3.3
-FROM lixiaowei/2048-baseimage:latest
+FROM registry.new.dataos.io/lixw/2048-baseimage:latest
+#FROM lixiaowei/2048-baseimage:latest
 MAINTAINER alex <alexwhen@gmail.com> 
 
 #RUN apk --update add nginx
